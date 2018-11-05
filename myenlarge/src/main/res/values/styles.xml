@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="EnlargeTheme.Basic" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+    </style>
+    <style name="EnlargeTheme.Transparent" parent="@style/EnlargeTheme.Basic">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+
+</resources>
