@@ -1,5 +1,8 @@
 # enlargeImageView
-android 点击图片放大全屏 再点击缩放回原来的位置  
+android 点击图片放大全屏 再点击缩放回原来的位置 
+## 先来张效果图  
+[image](https://github.com/luchongbin/enlargeImageView/blob/master/gif/introduce.gif)  
+
 ## 使用说明  
 1、Add it in your root build.gradle at the end of repositories:  
 ```
